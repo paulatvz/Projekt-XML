@@ -1,0 +1,68 @@
+<escape_roomovi>
+  <escape_room>
+    <naziv>Escape Art</naziv>
+    <lokacije>
+      <adresa>Draškovićeva 53</adresa>
+    </lokacije>
+    <sobe>3</sobe>
+    <trajanje>60-75</trajanje>
+    <broj_igraca>2-6</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>Escape Room Arena</naziv>
+    <lokacije>
+      <adresa>Zagrebački Velesajam, Paviljon 35, ulaz ISTOK III</adresa>
+    </lokacije>
+    <sobe>5</sobe>
+    <trajanje>60</trajanje>
+    <broj_igraca>2-5</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>The Old Lock Up</naziv>
+    <lokacije>
+      <adresa>Draškovićeva 72</adresa>
+      <adresa>Vodnikova 8</adresa>
+      <adresa>Makimirska 96</adresa>
+      <adresa>Vinkovićeva 6</adresa>
+    </lokacije>
+    <sobe>8</sobe>
+    <trajanje>60-66</trajanje>
+    <broj_igraca>2-6</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>Fox in a box</naziv>
+    <lokacije>
+      <adresa>Ulica kneza Mislava 14</adresa>
+    </lokacije>
+    <sobe>3</sobe>
+    <trajanje>60</trajanje>
+    <broj_igraca>2-6</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>Escape Room Enigmarium</naziv>
+    <lokacije>
+      <adresa>Krvavi most 3</adresa>
+    </lokacije>
+    <sobe>3</sobe>
+    <trajanje>60</trajanje>
+    <broj_igraca>2-5</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>ClueGo Escape Room</naziv>
+    <lokacije>
+      <adresa>Ulica kneza Borne 12</adresa>
+    </lokacije>
+    <sobe>3</sobe>
+    <trajanje>75</trajanje>
+    <broj_igraca>2-6</broj_igraca>
+  </escape_room>
+  <escape_room>
+    <naziv>Portal Escape</naziv>
+    <lokacije>
+      <adresa>Amruševa 8</adresa>
+    </lokacije>
+    <sobe>4</sobe>
+    <trajanje>60-80</trajanje>
+    <broj_igraca>2-8</broj_igraca>
+  </escape_room>
+</escape_roomovi>

@@ -1,0 +1,264 @@
+<sobe>
+  <soba id="Escape Art">
+    <naziv>Drakuline odaje</naziv>
+    <opis>Pazi vrat ili postani Drakuli brat. Mističan, prastari dvorac koji vjekovima čuva stravičnu tajnu….dom Vlada Tepeša, poznatijeg kao Grof Drakula. Zabavna igra linearnog tipa, izvrsna za igrače početnike.
+            Samo….jeste li dovoljno hrabri?!</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>2</faktor_strave>
+      <ocjena>4.5</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Art">
+    <naziv>Robin Hood</naziv>
+    <opis>Budi heroj – spasi kraljevstvo. Voliš avanturističke filmove, borbu za pravdu i dobre stare streličare u zelenim tajicama? Onda je Robin Hood prava avantura za tebe! U ovoj pustolovini čeka te puno adrenalina, iznenađenja i mali test spretnosti. Odlična igra za početnike, ali i za one malo iskusnije igrače.</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Art">
+    <naziv>Magična knjižnica</naziv>
+    <opis>Najkompleksnija i najzahtjevnija igra, namijenjena je iskusnijim igračima željnim izazova. Čudesno mjesto koje čuva više od onog što očekujete. Ako ste oduvijek sanjali kako je to zamahnuti čarobnim štapićem ili pak dotaknuti neki od drevnih artefakata iz mitova i legendi poput Pandorine kutije ili pak Excallibura, ovo je pravo mjesto za vas. Jeste li spremni zaviriti?</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Arena">
+    <naziv>Mind Crime</naziv>
+    <opis>Jeste li spremni postati banda specijalizirana za krađu sjećanja iz ljudskog uma? Vaša žrtva je mladi bogataš iz obitelji Parker koji je naslijedio više od 10 milijuna dolara. Zadatak vaše bande je pratiti njegova kretanja i ući u njegov um kako biste ukrali šifru bankovnog računa.</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Arena">
+    <naziv>Secret Agent</naziv>
+    <opis>Upravo ste primili uznemirujuću poruku da se u vašoj tajnoj obavještajnoj agenciji krije dupli agent. Već neko vrijeme lovimo izdajicu te smo došli do ove sigurnosne kuće u kojoj morate biti oprezni jer je sve puno zamki zbog kojih je puno agenata izgubilo život. Vaš zadatak je pronaći duplog agenta te pritom nikome nemojte vjerovati.</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Arena">
+    <naziv>The office of John Monroe</naziv>
+    <opis>U svome uredu je ubijen poznati privatni detektiv, vaš prijatelj i kolega, John Monroe. Zadnje je viđen s Vama, a oporučno ste naslijedili njegovu praksu te ste optuženi i uhićeni za njegovo umorstvo. Možete li otkriti ubojicu prije nego što se policija vrati?</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>2</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Arena">
+    <naziv>The lab od dr. Lev Pasted</naziv>
+    <opis>Ovo je tajno skrovište i laboratorij misterioznog rumunjskog genetičara i biologa dr. Leva Pasteda. U svojim kasnim godinama fokusirao se na otkrivanje formule za stvaranje umjetne krvi. Formula je nestala, a isto tako i doktor. Neki kažu da uzorci krvi i dalje postoje te da su skriveni u njegovom laboratoriju.</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>2</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Arena">
+    <naziv>The amazing heist</naziv>
+    <opis>Nacistička Njemačka, pad Berlinskog zida i završetak hladnog rata! Povijest koja još nije potpuno otkrivena. Jeste li dovoljno vješti da otkrijete tajne stare preko 30 godina i ukradete zlato koje će zauvijek promijeniti vaše živote?</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>3.5</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>The Crypt</naziv>
+    <opis>Klasični escape room s dodatnim izazovom, kako za početnike, tako i za one s nešto iskustva - iako zajedno, nekako razdvojeni!</opis>
+    <recenzija>
+      <tezina>2</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Haunted Hotel</naziv>
+    <opis>Najpopularnija avantura! Escape room s dodatkom, avantura koju mnogi igrači dolaze igrati iznova i iznova!</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>5</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Kidnapped</naziv>
+    <opis>Iako nije prelaka, odličan izbor avanture za početnike. Klasična soba za bijeg s tamnijom temom.</opis>
+    <recenzija>
+      <tezina>1</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Bailiff</naziv>
+    <opis>Temeljena na filmskoj franšizi SAW. Samo za jako hrabre! Izvrstan izbor za igrače s iskustvom koji žele VIŠE od običnog escape rooma! Vrhunska zabava zajamčena u svakom slučaju!</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>5</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Morgue</naziv>
+    <opis>Iako je za neke igrače manje strašna od avanture Haunted Hotel, nimalo manje zabavna! Odličan izbor za sve igrače s iskustvom ili početnike kojima je potreban dodatni adrenalin!</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>3</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Panic room</naziv>
+    <opis>Odličan izbor za početnike i obitelji. Klasični escape room pun napetosti i ponekog iznenađenja usput!</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>2</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>Narcos</naziv>
+    <opis>Prva obiteljska avantura odličan je izbor za početnike! Klasična soba za bijeg puna iznenađenja!</opis>
+    <recenzija>
+      <tezina>2</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="The Old Lock Up">
+    <naziv>The Ritual</naziv>
+    <opis>Koliko ste spremni žrtvovati da biste se spasili od opasnog kulta?</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>5</faktor_strave>
+      <ocjena>/</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Fox in a box">
+    <naziv>Zodiac Killer</naziv>
+    <opis>Oteo vas je i zarobio serijski ubojica.... Vezani ste i ostavljeni u njegovom stanu, a sudbina vam je vrlo neizvjesna. Nema drugog izlaza - bijeg vam je jedina šansa! Njegov "modus operandi" neodoljivo podsjeća na zloglasnog serijskog ubojicu Zodiaka... Da li se vratio pravi Zodiak ili je ovo njegov imitator?</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>3</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Fox in a box">
+    <naziv>Pljačka banke</naziv>
+    <opis>Vi ste tim lopova koji je saznao da direktor Centralne banke skriva ogromno bogatstvo u svojoj kancelariji. Tijekom noći ste se ušuljali u banku i deaktivirali alarm, ali nakon 60 minuta se ponovo pali što je poziv za policiju. Imate točno 60 minuta da se obogatite ili završite u zatvoru.</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>2</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Fox in a box">
+    <naziv>Bijeg iz zatvora</naziv>
+    <opis>Osuđeni ste na doživotnu kaznu u strogo čuvanom zatvoru. Nakon što vam je žalba odbijena vaš je jedini put do slobode- bijeg!</opis>
+    <recenzija>
+      <tezina>2</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>2</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Enigmarium">
+    <naziv>Tajanstveni slučaj zagrebačke vještice</naziv>
+    <opis>Vodimo vas u zagrebačku prošlost, vrijeme kada je vladao progon vještica! Nedužna Barica je zbog svoje iznimne ljepote i uspjeha u poslu proglašena vješticom, te joj prijeti lomača. Njena sudbina je u vašim rukama! Možete li je spasiti od lomače?</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Enigmarium">
+    <naziv>Femme Fatale</naziv>
+    <opis>Čeka vas opasan izazov i nemoguća misija! U potpunoj tajnosti trebate istražiti tko je uistinu ta tajanstvena i fatalna žena koja se nedavno doselila u Zagreb. Sve je oko nje čudno i mistično, a priča se da je ovdje došla po svoju sljedeću žrtvu… Imate li hrabrosti provaliti u njen stan i otkriti tko je ona i koje su njezine prave namjere?</opis>
+    <recenzija>
+      <tezina>2.5</tezina>
+      <faktor_strave>1</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Escape Room Enigmarium">
+    <naziv>Unlock Zagreb - pustolovina na otvorenom</naziv>
+    <opis>Uz Krvavi most vezujemo predaju o kneginji Ružici Gising i vitezu Pavi Slaviniću. Uputite se ulicama Zagreba i krenite putevima hrabrog viteza koji je morao proći trnovit put, kako bi spasio svoju voljenu. Usudite li se riješiti šest viteških izazova i provjeriti imate li sve što čini pravog viteza? Imate sat vremena prije no što zli knez Grdun uzme lijepu Ružicu za sebe. Požurite!</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="ClueGo Escape Room">
+    <naziv>Memento</naziv>
+    <opis>Prije nego su vam obrisali pamćenje, NAPRAVILI STE PLAN, a sve što imate je omotnica sa nekoliko naizgled svakodnevnih predmeta koje ste sami sebi poslali…​​ sastavite dijelove “slagalice” i vratite svoje sjećanje. Možete li se sjetiti?</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="ClueGo Escape Room">
+    <naziv>Tajna Profesora Baltazara</naziv>
+    <opis>Doživi neobičan svijet najpoznatijeg profesora! No, pripremi se: u Baltazarovom svijetu nije sve veselo i šareno kako biste na prvu mogli pomisliti! Baltazar će vam otkriti svoju mračnu obiteljsku tajnu, ali budite spremni na izazov…</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="ClueGo Escape Room">
+    <naziv>Krađa Mona Lise</naziv>
+    <opis>Mona Lisa je ponovno nestala iz Louvrea, a vi ste angažirani da je vratite. Jeste li dovoljno spretni i odvažni da provalite u galeriju i ukradete čuvenu Mona Lisu? Krađa Mona Lise 2 je escape room koji će vas staviti u ulogu lopova i natjerati vas da se osjećate kao u filmu.</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>5</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Portal Escape">
+    <naziv>Temple of Oziris</naziv>
+    <opis>U Egiptu je otkriven potpuno očuvan hram Ozirisa, boga zagrobnog života. Pozvani ste u tim arheologa koji će ući unutra, prvi put nakon 4000 godina! Ako ne pronađete izlaz, zauvijek ćete ostati u hramu. Budite koncentrirani i vješti i pronaći ćete neprocjenjivu statuu Ozirisa i izlaz iz hrama.</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Portal Escape">
+    <naziv>Black Queen's castle</naziv>
+    <opis>Barbara Celjska (“Crna kraljica”) bila je vlasnica dvorca Medvedgrada. Bila je lijepa i lukava, navodno i okrutna, a ako ćemo vjerovati legendama, njeno blago još je uvijek zakopano pod Medvedgradom. Ti si njen zatvorenik! Hoćeš li uspjeti pobjeći iz tamnice i riješiti sve trikove njenog dvorca?</opis>
+    <recenzija>
+      <tezina>4</tezina>
+      <faktor_strave>3</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Portal Escape">
+    <naziv>Cubes</naziv>
+    <opis>Doktor Malaver izmislio je Kocke kao vrhunski test uma. Samo su rijetki uspjeli otkriti sve njihove trikove i skrivene zagonetke. Što je taj čudni doktor želio postići? Zašto je dovodio ispitanike u ovaj jedinstveni prostor? Istražite sami… ako se usuđujete!</opis>
+    <recenzija>
+      <tezina>5</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>4</ocjena>
+    </recenzija>
+  </soba>
+  <soba id="Portal Escape">
+    <naziv>Don Carlo's secret</naziv>
+    <opis>Policija samo što nije stigla. Dokazi koje traže nalaze se u crvenoj knjižici… ali, gdje je skrivena? Uđite u ovu avanturu i osjetite se kao u krimiću! O vama ovisi sudbina obitelji Francesco. Budite pažljivi, jer i vaši životi su možda ugroženi…</opis>
+    <recenzija>
+      <tezina>3</tezina>
+      <faktor_strave>0</faktor_strave>
+      <ocjena>3</ocjena>
+    </recenzija>
+  </soba>
+</sobe>
